@@ -1,1 +1,2 @@
 # DOSAttackusingNS2
+ A denial-of-service (dos) attack is an attack meant to shut down a machine or network, making it inaccessible to its intended users. dos attacks accomplish this by flooding the target with traffic, or sending it information that triggers a crash. to execute a simple dos attack, the attacker select a target (typically a server from the client/server architecture) and systematically send service requests to them. as these requests are fake, the attacker can simply ignore the server responses.
